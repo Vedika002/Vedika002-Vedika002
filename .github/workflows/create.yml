@@ -18,7 +18,7 @@ jobs:
       - name: Set up Git
         run: |
           git config --global user.name "Vedika"
-          git config --global user.email "vedikachauhan2002z2gmail.com"
+          git config --global user.email "vedikachauhan2002@gmail.com"
       - name: Commit & Push
         run: |
           git add -A .
